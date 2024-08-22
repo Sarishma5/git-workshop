@@ -12,15 +12,5 @@
 
 <br><br><br><br>
 
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tirthacodes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sarishma's Github Stats">
-</p>
 
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tirthacodes&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="realtirtha" />  
-</p>      
-  
-<p align='center'>  
-   <img align="center" src="https://github-profile-trophy.vercel.app/?username=tirthacodes&theme=juicyfresh&no-bg=true" alt="Sarishma" />  
 
-</p>
